@@ -2,7 +2,7 @@
 public class Math {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method git testing
 		Math m = new Math();
 		
 	int s1=2, s2= 3,s3= 4, s4=5;
