@@ -10,7 +10,7 @@ public class Math {
 		System.out.println( "result ....."+y);
 		
 		
-		///fjhjg
+		System.out.println("Math checkin changes ");
 		   
 		int a1=10, a2 = 20, a3 =30, a4= 40;
 		 y = m.multiply(a1, a2, a3, a4);
