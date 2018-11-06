@@ -9,6 +9,9 @@ public class Math {
 		int y= m.multiply(s1, s2, s3, s4);
 		System.out.println( "result ....."+y);
 		
+		
+		///fjhjg
+		   
 		int a1=10, a2 = 20, a3 =30, a4= 40;
 		 y = m.multiply(a1, a2, a3, a4);
 		 System.out.println("result..."+y);
